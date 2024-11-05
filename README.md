@@ -1,1 +1,1 @@
-# oopcg_project
+This project creates an interactive "Moving Cycle" simulation using graphics in C++. It features a bicycle drawn with basic shapes (circles and lines) that can move left and right across the screen using the arrow keys, giving the impression of motion. The code also allows the user to change the cycle's color using function keys (F1–F9), with each key corresponding to a different color. The program initializes a full-screen window, displays a loading animation, and sets up controls for smooth cycling and color changes.
